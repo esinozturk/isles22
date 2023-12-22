@@ -2,3 +2,7 @@ connected_components_3d==3.9.1
 matplotlib==3.3.4
 nibabel==3.2.1
 numpy==1.19.5
+
+ex. type the following to install connected_components_3d
+
+!pip install connected-components-3d 
